@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#00FF41;">Nethma Dewmini</span></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+👋%2C+I'm+Nethma+Dewmini;Full+Stack+Developer;IT+Undergraduate+at+UoM" alt="Typing SVG" />
+</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nethma-Dewmini&label=Visitors&color=00FF41&style=flat-square" alt="Profile Views"/>
 </p>
