@@ -1,17 +1,17 @@
-<h1 align="center">🌙 Hi 👋, I'm <span style="color:#00FF41;">Nethma Dewmini</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#00FF41;">Nethma Dewmini</span></h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nethma-Dewmini&label=Visitors&color=00FF41&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
-### 💫 About Me:
+### About Me:
 - 🎓 IT Undergraduate at **University of Moratuwa**
 - 💻 Skilled in **Full-Stack Development** & modern frameworks
 
 ---
 
-### 🛠 Tech Stack:
+### Tech Stack:
 <p align="center" style="background-color:#000a00; padding:15px; border-radius:12px;">
   <img src="https://img.shields.io/badge/React-%23000a00.svg?style=for-the-badge&logo=react&logoColor=%2300FF41"/>
   <img src="https://img.shields.io/badge/Node.js-%23000a00.svg?style=for-the-badge&logo=node.js&logoColor=%2300FF41"/>
