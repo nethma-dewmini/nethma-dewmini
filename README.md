@@ -50,6 +50,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nethma-Dewmini&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000500&title_color=00FF41&text_color=00FF41&icon_color=00FF41" alt="Nethma's GitHub stats"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nethma-Dewmini&theme=chartreuse-dark&hide_border=true&background=000500&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00FF41&sideLabels=00FF41&dates=00FF41&currStreakNum=00FF41" alt="GitHub Streak"/>
-</p>
