@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nethma Dewmini</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nethma-Dewmini&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
 ---
 
 ### 💫 About Me:
 - 🎓 IT Undergraduate at **University of Moratuwa**
 - 💻 Skilled in **Full-Stack Development** & modern frameworks
+
 ---
 
 ### 🛠 Tech Stack:
